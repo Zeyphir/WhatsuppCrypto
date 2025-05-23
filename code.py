@@ -3,7 +3,7 @@ import requests
 import os
 
 ACCOUNT_SID = "ACbc13e02cf4702a2fbe90165eb6e98a42"
-AUTH_TOKEN = "6c43a6e58cac7af5bb901f35d13d0c35"
+AUTH_TOKEN = "8593eb002a201e62feef13fed830af30"
 FROM_WHATSAPP = 'whatsapp:+14155238886'
 TO_WHATSAPP = 'whatsapp:+33771176547'
 
